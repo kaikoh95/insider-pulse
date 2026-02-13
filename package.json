@@ -1,0 +1,13 @@
+{
+  "name": "insider-pulse",
+  "version": "0.1.0",
+  "description": "Track SEC Form 4 insider trades from the command line",
+  "type": "module",
+  "bin": {
+    "insider-pulse": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
